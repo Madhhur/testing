@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: madhhur168/my-frontend   # update with your DockerHub/registry repo
+  repository: madhhur168/gearx_product_backend   # update with your DockerHub/registry repo
   tag: latest
   pullPolicy: IfNotPresent
 
